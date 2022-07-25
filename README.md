@@ -15,3 +15,6 @@ Question - Develop documentation for development of a grocery delivery system fo
 
 Lecturer Comments.
 ![Feedback](https://user-images.githubusercontent.com/80021968/180735330-7ab541c9-51a1-498c-8c38-e5a7022349bd.jpg)
+
+
+![2](https://user-images.githubusercontent.com/80021968/180735929-437a4554-b65d-4c1a-80d2-d335aaad300b.jpg)
